@@ -1,0 +1,13 @@
+ở phần tiêu đề : tên công ty  tên vị trí ứng tuyển và tên của mình
+ở phần body main:
+- lời chào 
+- giời thiệu về bản thân
+- mục đích viết email để ứng tuyển vào vị trí nào
+- giới thiệu ngắn gọn về nhưng kinh nghiệm nổi bật của bạn
+ở phần kết 
+- cảm ơn nhà tuyển dụng và hi vọng sẽ ứng tuyển vài vị trí đó
+==============
+trân trọng,
+Tống Văn Chính
+========================
+thôg tin liên lạc 

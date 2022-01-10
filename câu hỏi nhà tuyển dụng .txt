@@ -1,0 +1,5 @@
+Các câu hỏi của nhà tuyển dụng
+1-Đâu là ngôn ngữ bạn thành thạo nhất
+2 kể tên công cụ mà bạn quản lý source code mà bạn thường sử dụng nhất
+ svn và git nêu khái niệm và sự khác biệt của chúng
+3 có dự án nào khiến bạn tâm đắc nhất và vai trò của bạn trong dự án là gì
